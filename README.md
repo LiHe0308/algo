@@ -1,8 +1,8 @@
 # algo
 常用的算法和数据结构代码实现
-*object-c
-*swift
-*c
+* object-c
+* swift
+* c
 
 [简书地址](https://www.jianshu.com/u/cde18f686c44)
 
